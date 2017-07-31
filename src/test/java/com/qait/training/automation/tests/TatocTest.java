@@ -15,7 +15,7 @@ public class TatocTest {
 	    public void initializeVariable(){
 	        testSessionInitiator = new TestSessionInitiator(this.getClass().getName());
 	    }
-	    //@Test
+	    @Test
 		public void Test01_verifyBasicCourse() throws InterruptedException
 		{
 	    	 testSessionInitiator.launchApplication();
