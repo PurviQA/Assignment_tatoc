@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[
+The application url is :- http://10.0.1.86/tatoc]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13647" started-at="2017-07-28T08:23:35Z" finished-at="2017-07-28T08:23:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13647" started-at="2017-07-28T08:23:35Z" finished-at="2017-07-28T08:23:48Z">
+      <class name="com.qait.training.automation.tests.TatocTest">
+        <test-method status="PASS" signature="initializeVariable()[pri:0, instance:com.qait.training.automation.tests.TatocTest@754ba872]" name="initializeVariable" is-config="true" duration-ms="3797" started-at="2017-07-28T13:53:35Z" finished-at="2017-07-28T13:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeVariable -->
+        <test-method status="PASS" signature="Test02_verifyAdvancedCourse()[pri:0, instance:com.qait.training.automation.tests.TatocTest@754ba872]" name="Test02_verifyAdvancedCourse" duration-ms="9837" started-at="2017-07-28T13:53:39Z" finished-at="2017-07-28T13:53:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+The application url is :- http://10.0.1.86/tatoc]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test02_verifyAdvancedCourse -->
+      </class> <!-- com.qait.training.automation.tests.TatocTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

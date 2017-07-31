@@ -1,0 +1,8 @@
+baseUrl: http://10.0.1.86/tatoc
+rest_baseUrl: http://10.0.1.86/tatoc/advanced/rest/service
+databaseName: tatoc
+host: 10.0.1.86
+username: tatocuser
+password: tatoc01
+name: Purvi
+FilePath: C:\\Users\\purviagarwal\\Downloads\\file_handle_test.dat
